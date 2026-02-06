@@ -1,0 +1,10 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.env
+.env.local
+coverage/
+.turbo/
+packages/escrow/artifacts/
+packages/escrow/cache/
+packages/escrow/typechain-types/
